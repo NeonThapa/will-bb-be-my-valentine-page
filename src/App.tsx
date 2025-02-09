@@ -51,7 +51,7 @@ export default function Page() {
         <>
           <img
             className="h-[150px] rounded-full mb-4" // Adjusted size and added rounded corners and margin
-            src="../public/mica.jpg" // Path to Mica's picture in the public folder
+            src="/mica.jpg" // Path to Mica's picture in the public folder
             alt="Mica's Picture" // Added alt text
           />
           <img
